@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+pytorch-forecasting
+torch
+pydantic
+scikit-learn
